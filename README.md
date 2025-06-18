@@ -1,0 +1,1 @@
+This app introduces and gives breif description of all the Avengers main characters. By clicking on the images of the avenger characters, you canget a breif explanation of who played that specific role and their power statuses.
